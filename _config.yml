@@ -1,3 +1,5 @@
+name: JLC's GitHub website
+title: null
 plugins:
   - jekyll-relative-links
 relative_links:
