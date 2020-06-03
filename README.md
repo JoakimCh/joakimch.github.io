@@ -1,3 +1,0 @@
-# joakimch.github.io
-
-Test
