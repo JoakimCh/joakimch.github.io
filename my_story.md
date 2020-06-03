@@ -1,3 +1,3 @@
-## A story about me and my health (todo)
+# A story about me and my health (todo)
 
 Once upon a time there was a...
