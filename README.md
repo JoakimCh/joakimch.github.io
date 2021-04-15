@@ -12,7 +12,8 @@ This is my super simple (because who cares) GitHub website where I'll write some
 
 ### Where to find me
 
-- [GitHub](https://github.com/JoakimCh)
+- [GitHub](https://github.com/JoakimCh) For my projects that are complete enough to share with others.
+- [NPM](https://www.npmjs.com/~joakimch) My published JavaScript modules.
 - [Twitter](https://twitter.com/ch_joakim) (for any updates just follow me there)
 
 ### Some articles by me
